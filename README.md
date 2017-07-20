@@ -2,14 +2,15 @@
 
 Topics Covered
 - The case for R
-- The command line + variables
-- Types of objects - numeric, int, character, data frames- indexing
+- The command line & variables
+- Types of objects - numeric, int, character, data frames
+    - indexing
 - Functions- creating functions
-- Loops + if/else blocks
+- Loops & if/else blocks
 - Break! (I think)
 - Importing data
-- Tidying data + intro to the tidyverse packages
-- Data vis
+- Tidying data + introduction to the tidyverse packages
+- Data visualisation
 
 Why R?
 - While spreadsheet environments like Excel are still quite powerful and useful for data work, the ability to programatically manipulate data brings with it some unique advantages.
