@@ -78,3 +78,11 @@ Just as you can manipulate values, you can manipulate variables.
     my_var / 3
      > 1
 ```
+
+Since variables can old so many different types of objects, we often need to check the *class* of the data being stored. You can check the class using the following: 
+
+```{r} 
+    class(my_var)
+     > integer
+```
+
