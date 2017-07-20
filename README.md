@@ -35,5 +35,5 @@ Command line is a text interface program which takes in commands from the user s
 
 ```{r}
     1 + 1
-        >2
+     >2
 ```
