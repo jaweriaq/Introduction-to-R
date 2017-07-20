@@ -52,3 +52,29 @@ Command line is a text interface program which takes in commands from the user s
     6 / 2
     > 3
 ```
+
+VARIABLES 
+
+Variables allow you to store values, objects, lists, matrices, etc. 
+Variables allow you to easily access the value/object. You can name your variable however you wish! 
+You can name your variables using letters but it is often more useful to use words to name variables. A standard notation for naming variables is using underscores to separate words, e.g.:
+ - my_var
+ - cinema_income
+In R, you can assign a value/object to a variable using an arrow ( <- ). You can print a variable in R by simply typing the variable name. 
+
+```{r} 
+    my_var <- 3
+    
+    my_var
+     > 3
+```
+
+Just as you can manipulate values, you can manipulate variables. 
+
+```{r}
+    my_var * 2
+     > 6
+    
+    my_var / 3
+     > 1
+```
