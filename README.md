@@ -24,5 +24,6 @@ Why R specifically?
 - it's entirely free and open source!
 
 RStudio or Jupyter Notebook?
+
 Either works, honestly - it's all a matter of preference.
 Jupyter is arguably more conducive to documenting a research workflow with its inline outputs and Markdown functionality, but RStudio's interface makes it great for putting together scripts and debugging. RStudio also contains a host of useful point-and-click features for things like importing data and viewing data frame structures.
