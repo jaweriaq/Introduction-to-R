@@ -4,7 +4,7 @@ Topics Covered
 - The case for R
 - The command line & variables
 - Types of objects - numeric, int, character, data frames
-    - indexing
+    - Indexing
 - Functions- creating functions
 - Loops & if/else blocks
 - Break! (I think)
