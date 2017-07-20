@@ -37,3 +37,18 @@ Command line is a text interface program which takes in commands from the user s
     1 + 1
     > 2
 ```
+
+```{r}
+    8 - 1
+    > 7
+```
+
+```{r}
+    3 * 4
+    > 12
+```
+
+```{r}
+    6 / 2
+    > 3
+```
